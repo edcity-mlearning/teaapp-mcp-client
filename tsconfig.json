@@ -9,9 +9,8 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-
-    "sourceMap": true,
-    "inlineSourceMap": false
+//    "sourceMap": true,
+//    "inlineSourceMap": false
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]
